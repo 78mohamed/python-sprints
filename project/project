@@ -1,0 +1,4 @@
+it's a class with an optional attripute of the csv file you can either enter a path or a new csv file with todays date will be created
+insert method doesn't have an attripute instead it asks you for each attripute as an input
+update method need three attriputes the index of the row (0,1,2,3,4) the column name we need to update and lastly the value
+delete medthod delete the column with the given index
